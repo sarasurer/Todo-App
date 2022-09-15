@@ -1,0 +1,16 @@
+---------Todo App Projet with Flutter---------
+
+ToDoApp is a flutter file.
+1)create_page.dart has a simple dialog which contains creation of task. After you create a task, which means when
+you click on he create button, you have to click cross icon to close the simple dialog.
+2)data.dart file has initialization and constructor of the variables in sql.
+3)edit_page.dart file has a different page that edit the task. However it cannot working due to exception. I could
+not find any solution.
+4)home_screen.dart file is a main page of todo app. It has a list of task. There are three icons working with
+delete, edit and if task is complete or not.
+5)main.dart file has runApp function.
+6)todo_api file has connection with Web API and command of futures.
+
+
+ToDoCervidae is a Web API file.
+
