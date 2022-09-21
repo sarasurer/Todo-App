@@ -4,7 +4,7 @@
 
 1. In Web API project, I used Entity Framework and migration to create automatically database and its variable.
 
-2. Whit this app, you can add, delete or update your task.
+2. With this app, you can add, delete or update your task.
 
 - create_page.dart has a simple dialog which contains creation of task. After you create a task, which means when
 you click on he create button, you have to click cross icon to close the simple dialog.
